@@ -3,8 +3,8 @@ html, body, #notion-app {
     overflow: auto !important;
     font-size: 14px !important;
     -webkit-print-color-adjust: exact;
-    padding: 3px !important;
-    margin: 2px !important
+    padding: 14px !important;
+    margin: 14px !important
     }
 .notion-help-button, .notion-print-ignore, .notion-overlay-container, .notion-sidebar-container, .notion-presence-container, .notion-topbar, .notion-topbar-export-popup, .notion-selectable-halo, .notion-help-button, .notion-page-controls {
     display: none !important
